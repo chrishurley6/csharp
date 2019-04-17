@@ -1,5 +1,5 @@
 
-namespace DSNAlgorims
+namespace DSNAlgorithms
 {
     class Node
     {
